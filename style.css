@@ -82,6 +82,7 @@ header {
 /* Typing Effect */
 .typing {
   border-right: 3px solid #61dafb;
+  vertical-align: baseline;
   white-space: nowrap;
   overflow: hidden;
   display: inline-block;
